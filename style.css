@@ -1,0 +1,75 @@
+* {
+    margin:0%;
+    padding:0%;
+    background-color: azure;
+    
+}
+.container{
+    padding: 5px;
+    display:flex;
+    justify-content: space-between;
+    align-items: end;
+    gap:30px;
+}
+.icon{
+    margin-bottom: 15px;
+}
+
+img{
+    width:300px;
+    height:200px;
+    margin-bottom:10px;
+}
+span{
+    position: relative;
+    margin:20px;
+    width: 300px;
+    border:1px solid grey;
+    text-align: center;
+}
+h2{
+    position:absolute;
+    text-align: center;
+    width: 100px;
+    right: 35px;
+    bottom: 310px;
+    color: white;
+    background-color: blue;
+}
+
+button{
+    background-color: brown;
+    margin:20px;
+    padding: 15px;
+    color:aliceblue
+}
+small{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.underline{
+    height: 2px;
+    background-color: wheat;
+    margin: 5px;
+}
+
+.dodgle{
+    width:20vh;
+    height: 2px;
+    background-color: blue;
+}
+
+    ;
+}
